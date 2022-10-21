@@ -1,4 +1,3 @@
-
 # blog-boostrap-django
 
 This a blog developed with Django, Boostrap and Docker
